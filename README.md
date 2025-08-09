@@ -12,6 +12,9 @@ pip install flask-restful
 pip install flake8 --> verifica se o código está de acordo com as normas do python
 flake8 . --exclude .venv
 pip install flask-mongoengine
+pip install flake8
+flake8 . --exclude .venv
+
 
 Proposta do Projeto
 
